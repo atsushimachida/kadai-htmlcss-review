@@ -1,24 +1,31 @@
 header{
+    width:1000px;
+    margin:0px;
     background-color:#ffcccc;
 }
 
 #wrapper{
+   margin:0px;
    width:1000px;
    display:flex;
   justify-content:space-between;
 }
 
 #main{
+    margin-top:0px;
     width:700px;
     background-color:#ccffcc;
     
 }
 
 #menu{
+    margin-top:0px;
     width:300px;
     background-color:#ccccff;
     }
 
 footer{
+    margin-top:0px;
+    width:1000px;
     background-color:#ffccff;
     }
